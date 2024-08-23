@@ -7,14 +7,6 @@ Bem-vindo ao repositório de soluções para problemas do BeecrowdJudge (anterio
 - **/Problems**: Diretório com subpastas para cada categoria específica.
   - **/Beginner**
 
-## Como Contribuir
-
-Se você deseja contribuir, por favor, siga estas diretrizes:
-
-1. **Nomeie seu arquivo**: Use o formato `ProblemaX_SuaSolução.cs`.
-2. **Documente seu código**: Inclua comentários explicativos e uma breve descrição do problema no início de cada arquivo.
-3. **Siga as boas práticas**: Mantenha o código limpo e bem estruturado.
-
 ## Executando o Código
 
 Para executar os códigos em C#, você pode utilizar o .NET SDK. Certifique-se de ter o SDK instalado e use os seguintes comandos para compilar e executar:
