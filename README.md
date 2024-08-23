@@ -13,4 +13,4 @@ Para executar os códigos em C#, você pode utilizar o .NET SDK. Certifique-se d
 
 ```sh
 dotnet build
-dotnet run --project Caminho/Para/Seu/Projeto.csproj
+dotnet run --project Projeto.csproj
