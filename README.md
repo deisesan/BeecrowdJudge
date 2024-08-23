@@ -4,10 +4,8 @@ Bem-vindo ao repositório de soluções para problemas do BeecrowdJudge (anterio
 
 ## Estrutura do Repositório
 
-- **/Problemas**: Diretório com subpastas para cada problema específico.
-  - **/Problema1**: Soluções e arquivos relacionados ao Problema 1.
-  - **/Problema2**: Soluções e arquivos relacionados ao Problema 2.
-- **/Recursos**: Materiais adicionais, como algoritmos úteis e exemplos de entrada/saída.
+- **/Problems**: Diretório com subpastas para cada categoria específica.
+  - **/Beginner**
 
 ## Como Contribuir
 
