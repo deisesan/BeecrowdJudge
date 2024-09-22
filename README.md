@@ -5,7 +5,8 @@ Bem-vindo ao repositório de soluções para problemas do BeecrowdJudge (anterio
 ## Estrutura do Repositório
 
 - **/Problems**: Diretório com subpastas para cada categoria específica.
-  - **/Beginner**: Soluções para problemas de nível iniciante.
+  - **/Beginner**
+  - **/Graph**
 
 ## Executando o Código
 
